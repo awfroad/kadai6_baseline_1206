@@ -1,0 +1,24 @@
+@charset "UTF-8";
+html {
+    font-size: 62.5%;
+    font-family: "M+PLUS+1p";
+}
+
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: bisque;
+    flex-direction: column;
+}
+
+.confirm {
+    font-size: 3rem;
+}
+
+.confirm_main {
+    text-align: left;
+}
